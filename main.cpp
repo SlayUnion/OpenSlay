@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define NX 40
-#define NY 40
+#define NX 50
+#define NY 50
 
 int main(){
     
